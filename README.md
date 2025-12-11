@@ -1,1 +1,1 @@
-# Churn-app-detection
+Customer Churn Prediction App built with Streamlit and a Random Forest model. The project includes data cleaning, label encoding, model training, and a web interface that predicts whether a telecom customer will churn with confidence scores. Simple, fast, and production-ready.
